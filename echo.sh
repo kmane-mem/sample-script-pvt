@@ -1,4 +1,4 @@
-echo ' ---> Hello runSshnew'
+echo ' ---> Hello runSshnew verify commit'
 
 
 #sleep 5m
