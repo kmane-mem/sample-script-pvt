@@ -1,4 +1,4 @@
-echo ' ---> Hello runShsssneww creating pr check'
+echo ' ---> Hello runShsssneww creating pr chxeck'
 
 
 #sleep 5m
