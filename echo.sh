@@ -1,4 +1,4 @@
-echo ' ---> Hello runccccSshnew'
+echo ' ---> Hello runSshnew'
 
 
 #sleep 5m
