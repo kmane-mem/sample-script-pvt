@@ -1,3 +1,4 @@
+#!/bin/bash -e
 echo ' ---> Hello shnew'
 echo 'this is private project script'
 lsb_release -a
