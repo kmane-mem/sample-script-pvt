@@ -1,5 +1,5 @@
 #!/bin/bash -e
-echo ' ---> Hello shnew'
+echo ' ---> Hello'
 echo 'this is private project script'
 lsb_release -a
 docker --version
